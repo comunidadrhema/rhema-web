@@ -1,0 +1,6 @@
+Sitemap: https://www.comunidadrhema.com/sitemap.xml
+User-agent: Twitterbot
+User-agent: *
+Allow: /*
+
+Disallow: /api/*
